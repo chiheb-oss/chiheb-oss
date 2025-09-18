@@ -35,8 +35,8 @@ Here are some of my notable projects:
 ## 📫 Contact Me  
 
 - 📧 **Email:** [zamourichiheb66@gmail.com](mailto:zamourichiheb66@gmail.com)  
-- 💼 **LinkedIn:** [Chiheb Zammouri](https://www.linkedin.com/feed/update/urn:li:activity:7367077294965673984)  
-- 🐙 **GitHub:** [Chiheb Zammouri](https://github.com/chiheb-oss/chiheb-oss/edit/main/README.md)  
+- 💼 **LinkedIn:** [Chiheb Zammouri] 
+- 🐙 **GitHub:** [chiheb-oss]  
 
 ---
 
